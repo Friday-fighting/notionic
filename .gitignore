@@ -19,7 +19,7 @@
 .DS_Store
 .vscode
 *.pem
-
+./pages/note.js
 # debug
 npm-debug.log*
 yarn-debug.log*
