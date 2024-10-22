@@ -4,8 +4,9 @@ const Logo = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     version="1.1"
-    width="512px"
-    height="512px"
+    width="24"
+    height="24"
+    viewBox='0 0 100 100'
     style={{
       shapeRendering: 'geometricPrecision',
       textRendering: 'geometricPrecision',
